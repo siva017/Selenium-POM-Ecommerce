@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="25" total="26" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43643" started-at="2020-09-29T03:22:05Z" finished-at="2020-09-29T03:22:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43643" started-at="2020-09-29T03:22:05Z" finished-at="2020-09-29T03:22:48Z">
+      <class name="com.etailpet.qa.testcases.ProfilePageTest">
+        <test-method status="PASS" signature="ProfilePageOptionTest()[pri:0, instance:com.etailpet.qa.testcases.ProfilePageTest@548e7350]" name="ProfilePageOptionTest" is-config="true" duration-ms="31147" started-at="2020-09-29T03:22:05Z" finished-at="2020-09-29T03:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProfilePageOptionTest -->
+        <test-method status="PASS" signature="ExistingAddressValidationTest()[pri:26, instance:com.etailpet.qa.testcases.ProfilePageTest@548e7350]" name="ExistingAddressValidationTest" duration-ms="11709" started-at="2020-09-29T03:22:36Z" finished-at="2020-09-29T03:22:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExistingAddressValidationTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.etailpet.qa.testcases.ProfilePageTest@548e7350]" name="teardown" is-config="true" duration-ms="779" started-at="2020-09-29T03:22:48Z" finished-at="2020-09-29T03:22:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.etailpet.qa.testcases.ProfilePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
